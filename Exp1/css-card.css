@@ -1,0 +1,16 @@
+.container {
+    width: 1140px;
+}
+.row {
+    display: flex;
+}
+.card {
+    display:block;
+    margin: 50px;
+    border-style: solid;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn-primary {
+    margin-bottom: 10px;
+}
