@@ -1,3 +1,4 @@
+// Задание 3
 let bwPrint = document.querySelector("#bwPrint").value;
 bwPrint = 20;
 let bwCopy = document.querySelector("#bwCopy");
